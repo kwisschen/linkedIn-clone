@@ -1,2 +1,2 @@
 # LinkedIn-clone
-Attempt at re-creating LinkedIn
+Attempt at re-creating LinkedIn using React
